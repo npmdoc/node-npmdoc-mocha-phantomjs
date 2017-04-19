@@ -1,9 +1,14 @@
-# api documentation for  [mocha-phantomjs (v4.1.0)](https://github.com/nathanboktae/mocha-phantomjs#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-mocha-phantomjs.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-mocha-phantomjs) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-mocha-phantomjs.svg)](https://travis-ci.org/npmdoc/node-npmdoc-mocha-phantomjs)
+# npmdoc-mocha-phantomjs
+
+#### api documentation for  [mocha-phantomjs (v4.1.0)](https://github.com/nathanboktae/mocha-phantomjs#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-mocha-phantomjs.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-mocha-phantomjs) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-mocha-phantomjs.svg)](https://travis-ci.org/npmdoc/node-npmdoc-mocha-phantomjs)
+
 #### Run mocha browser tests in phantomjs via the command line
 
-[![NPM](https://nodei.co/npm/mocha-phantomjs.png?downloads=true)](https://www.npmjs.com/package/mocha-phantomjs)
+[![NPM](https://nodei.co/npm/mocha-phantomjs.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/mocha-phantomjs)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-mocha-phantomjs/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-mocha-phantomjs_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-mocha-phantomjs/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-mocha-phantomjs/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-mocha-phantomjs/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-mocha-phantomjs/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-mocha-phantomjs/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-mocha-phantomjs/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "Nathan Black",
-        "email": "nathan@nathanblack.org",
         "url": "http://nathanblack.org"
     },
     "bin": {
@@ -30,12 +34,10 @@
     "contributors": [
         {
             "name": "Jonathan Chapman",
-            "email": "chafnan@gmail.com",
             "url": "https://github.com/chafnan"
         },
         {
             "name": "Ken Collins",
-            "email": "ken@metaskills.net",
             "url": "http://metaskills.net/"
         }
     ],
@@ -75,17 +77,14 @@
     "main": "./bin/mocha-phantomjs",
     "maintainers": [
         {
-            "name": "metaskills",
-            "email": "ken@metaskills.net"
+            "name": "metaskills"
         },
         {
-            "name": "nathanboktae",
-            "email": "nathan@nathanblack.org"
+            "name": "nathanboktae"
         }
     ],
     "name": "mocha-phantomjs",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+ssh://git@github.com/nathanboktae/mocha-phantomjs.git"
@@ -96,16 +95,6 @@
     "version": "4.1.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module mocha-phantomjs](#apidoc.module.mocha-phantomjs)
-
-
-
-# <a name="apidoc.module.mocha-phantomjs"></a>[module mocha-phantomjs](#apidoc.module.mocha-phantomjs)
 
 
 
